@@ -32,8 +32,8 @@ React 클라이언트 (Vercel) → Express API 서버 (Render) → Supabase Post
 | --- | --- |
 | 클라이언트 GitHub | https://github.com/jyc-521/pwd-week7-client |
 | 서버 GitHub | https://github.com/jyc-521/pwd-week7 |
-| Vercel 서비스 | 배포 후 입력 |
-| Render API | 배포 후 입력 |
+| Vercel 서비스 | https://pwd-week5-brown.vercel.app |
+| Render API | https://pwd-week6-jyc-521.onrender.com |
 
 ## 사용 기술
 
